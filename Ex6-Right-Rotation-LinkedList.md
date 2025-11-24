@@ -1,5 +1,4 @@
 # Ex6 Right Rotation LinkedList
-## DATE:
 ## AIM:
 To write a Java  program to:
 Create a singly linked list.
@@ -33,8 +32,8 @@ Break the circular connection.
 ```
 /*
 Program to  Right Rotation LinkedList
-Developed by: Abinaya A
-RegisterNumber: 212223040003
+Developed by: Ranjan umar g
+RegisterNumber: 212223240138
 */
 import java.util.Scanner;
 
